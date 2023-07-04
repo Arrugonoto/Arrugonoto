@@ -1,7 +1,7 @@
 # <img src='https://emojis.slackmojis.com/emojis/images/1643514514/5029/hello_there.gif?1643514514' width='34'> Please make Yourself at home
 I'm Arrugonoto(in reality Krzysztof) but You can call me just Aru :headphones:
 
-- 🌱 I’m currently learning TS / Figma
+- 🌱 I’m currently learning Figma (redux-toolkit later)
 - 💬 Ask me about really anything(ok anything related to me or my knowledge :panda_face:)
 - 🐛 Why bug? In 1947 a technician at Harvard had an issue with the performance of their Mark II computer.
      Once they investigated, they discovered that a moth had gotten into a relay – an actual real live bug
