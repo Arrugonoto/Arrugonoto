@@ -17,8 +17,57 @@ I'm Arrugonoto(in reality Krzysztof) but You can call me just Aru :headphones:
  
 
 ## :toolbox: Tech Stack
-<div align="center">
-  
+<div>
+
+Language
+ - ![JavaScript](https://img.shields.io/badge/JavaScript-%230a262f?style=flat&logo=javascript&logoColor=%23F7DF1E)
+ - ![TypeScript](https://img.shields.io/badge/TypeScript-%230a262f?style=flat&logo=typescript&logoColor=%233178C6)
+
+Front-end
+ - ![HTML](https://img.shields.io/badge/HTML-%230a262f?style=flat&logo=html5&logoColor=%23E34F26), ![CSS](https://img.shields.io/badge/CSS-%230a262f?style=flat&logo=css3&logoColor=%231572B6)
+ - ![React](https://img.shields.io/badge/React-%230a262f?style=flat&logo=react&logoColor=%2361DAFB)
+ - ![React Router](https://img.shields.io/badge/React%20Router-%230a262f?style=flat&logo=React%20Router&logoColor=%23CA4245)
+ - ![Sass](https://img.shields.io/badge/Sass-%230a262f?style=flat&logo=sass&logoColor=%23CC6699)
+ - ![styled-components](https://img.shields.io/badge/styled--components-%230a262f?style=flat&logo=styled-components&logoColor=%23DB7093)
+ - ![NextUI](https://img.shields.io/badge/NextUI-%230a262f?style=flat&logo=nextui&logoColor=%23DB7093)
+ - ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%230a262f?style=flat&logo=Framer)
+ 
+
+
+
+
+
+Back-end
+ - ![Node.js](https://img.shields.io/badge/Node.js-%230a262f?style=flat&logo=Node.js&logoColor=%23339933)
+ - ![Socket.IO](https://img.shields.io/badge/Socket.IO-%230a262f?style=flat&logo=Socket.io)
+ - ![Express](https://img.shields.io/badge/Express-%230a262f?style=flat&logo=Express)
+
+API
+ - ![REST API](https://img.shields.io/badge/REST%20API-%230a262f?style=flat)
+
+Database
+ - ![MongoDB](https://img.shields.io/badge/MongoDB-%230a262f?style=flat&logo=MongoDB&logoColor=%2347A248)
+
+VCS
+ - ![Git](https://img.shields.io/badge/Git-%230a262f?style=flat&logo=Git&logoColor=%23F05032)
+ - ![GitHub](https://img.shields.io/badge/GitHub-%230a262f?style=flat&logo=GitHub)
+
+IDE
+ - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230a262f?style=flat&logo=visualstudiocode&logoColor=%23007ACC)
+
+Package Manager
+ - ![npm](https://img.shields.io/badge/npm-%230a262f?style=flat&logo=npm&logoColor=%23CB3837)
+
+Deployment/Hosting\
+ - ![vercel](https://img.shields.io/badge/Vercel-%230a262f?style=flat&logo=vercel)
+ - ![Render](https://img.shields.io/badge/Render-%230a262f?style=flat&logo=render&logoColor=%2346E3B7)
+
+Formatting/Linting
+ - ![EsLint](https://img.shields.io/badge/ESLint-%230a262f?style=flat&logo=eslint&logoColor=%234B32C3)
+ -
+
+
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-634c65?style=for-the-badge&logo=prettier&logoColor=#F7B93E) 
