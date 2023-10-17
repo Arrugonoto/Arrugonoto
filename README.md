@@ -29,7 +29,7 @@ Front-end
  - ![React Router](https://img.shields.io/badge/React%20Router-%230a262f?style=flat&logo=React%20Router&logoColor=%23CA4245)
  - ![Sass](https://img.shields.io/badge/Sass-%230a262f?style=flat&logo=sass&logoColor=%23CC6699)
  - ![styled-components](https://img.shields.io/badge/styled--components-%230a262f?style=flat&logo=styled-components&logoColor=%23DB7093)
- - ![NextUI](https://img.shields.io/badge/NextUI-%230a262f?style=flat&logo=nextui&logoColor=%23DB7093)
+ - ![NextUI](https://img.shields.io/badge/NextUI-%230a262f?style=flat&logo=nextui)
  - ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%230a262f?style=flat&logo=Framer)
  
 
