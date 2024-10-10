@@ -17,7 +17,7 @@ I'm Arrugonoto(in reality Krzysztof) but You can call me just Aru :headphones:
  
 
 ## :toolbox: Tech Stack
-<div>
+<div align='center'>
 
 | Language          | Front-end                   | Back-end             | Framework             | IDE / VCS / Lint      | Host               |
 | ----------------- | ----------------------------| -------------------- | --------------------- | --------------------- | ------------------ |
