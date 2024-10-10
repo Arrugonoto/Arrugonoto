@@ -19,52 +19,16 @@ I'm Arrugonoto(in reality Krzysztof) but You can call me just Aru :headphones:
 ## :toolbox: Tech Stack
 <div>
 
-Language
- - ![JavaScript](https://img.shields.io/badge/JavaScript-%230a262f?style=flat&logo=javascript&logoColor=%23F7DF1E)
- - ![TypeScript](https://img.shields.io/badge/TypeScript-%230a262f?style=flat&logo=typescript&logoColor=%233178C6)
-
-Front-end
- - ![HTML](https://img.shields.io/badge/HTML-%230a262f?style=flat&logo=html5&logoColor=%23E34F26), ![CSS](https://img.shields.io/badge/CSS-%230a262f?style=flat&logo=css3&logoColor=%231572B6)
- - ![React](https://img.shields.io/badge/React-%230a262f?style=flat&logo=react&logoColor=%2361DAFB)
- - ![React Router](https://img.shields.io/badge/React%20Router-%230a262f?style=flat&logo=React%20Router&logoColor=%23CA4245)
- - ![Sass](https://img.shields.io/badge/Sass-%230a262f?style=flat&logo=sass&logoColor=%23CC6699)
- - ![styled-components](https://img.shields.io/badge/styled--components-%230a262f?style=flat&logo=styled-components&logoColor=%23DB7093)
- - ![NextUI](https://img.shields.io/badge/NextUI-%230a262f?style=flat&logo=nextui)
- - ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%230a262f?style=flat&logo=Framer)
- 
-
-
-
-
-
-Back-end
- - ![Node.js](https://img.shields.io/badge/Node.js-%230a262f?style=flat&logo=Node.js&logoColor=%23339933)
- - ![Socket.IO](https://img.shields.io/badge/Socket.IO-%230a262f?style=flat&logo=Socket.io)
- - ![Express](https://img.shields.io/badge/Express-%230a262f?style=flat&logo=Express)
-
-API
- - ![REST API](https://img.shields.io/badge/REST%20API-%230a262f?style=flat)
-
-Database
- - ![MongoDB](https://img.shields.io/badge/MongoDB-%230a262f?style=flat&logo=MongoDB&logoColor=%2347A248)
-
-VCS
- - ![Git](https://img.shields.io/badge/Git-%230a262f?style=flat&logo=Git&logoColor=%23F05032)
- - ![GitHub](https://img.shields.io/badge/GitHub-%230a262f?style=flat&logo=GitHub)
-
-IDE
- - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230a262f?style=flat&logo=visualstudiocode&logoColor=%23007ACC)
-
-Package Manager
- - ![npm](https://img.shields.io/badge/npm-%230a262f?style=flat&logo=npm&logoColor=%23CB3837)
-
-Deployment/Hosting
- - ![vercel](https://img.shields.io/badge/Vercel-%230a262f?style=flat&logo=vercel)
- - ![Render](https://img.shields.io/badge/Render-%230a262f?style=flat&logo=render&logoColor=%2346E3B7)
-
-Formatting/Linting
- - ![EsLint](https://img.shields.io/badge/ESLint-%230a262f?style=flat&logo=eslint&logoColor=%234B32C3)
- - ![Static Badge](https://img.shields.io/badge/Prettier-%230a262f?style=flat&logo=prettier&logoColor=%23F7B93E)
+| Language          | Front-end                   | Back-end             | Framework             | IDE / VCS / Lint      | Host               |
+| ----------------- | ----------------------------| -------------------- | --------------------- | --------------------- | ------------------ |
+| ![JavaScript][JS] | ![HTML][html], ![CSS][css3] | ![Node.js][node]     | ![Next.js][nextjs]    | ![Git][git]           | ![vercel][vercel]  |
+| ![TypeScript][TS] | ![React][react]             | ![Socket.IO][socket] |                       | ![GitHub][github]     | ![Render][render]  |
+|                   | ![React Router][router]     | ![Express][express]  |                       | ![VS Code][vscode]    |                    |
+|                   | ![Sass][sass]               | ![REST API][api]     |                       | ![EsLint][lint]       |                    |
+|                   | ![styled-components][styled]| ![MongoDB][mongo]    |                       | ![Prettier][prettier] |                    |
+|                   | ![NextUI][nextui]           |                      |                       |                       |                    |
+|                   | ![Framer Motion][framer]    |                      |                       |                       |                    |
+|                   | ![Tailwind CSS][tailwind]   |                      |                       |                       |                    |  
  
  </div>
 
@@ -98,3 +62,27 @@ Formatting/Linting
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[JS]:https://img.shields.io/badge/JavaScript-%230a262f?style=flat&logo=javascript&logoColor=%23F7DF1E
+[TS]:https://img.shields.io/badge/TypeScript-%230a262f?style=flat&logo=typescript&logoColor=%233178C6
+[html]:https://img.shields.io/badge/HTML-%230a262f?style=flat&logo=html5&logoColor=%23E34F26
+[css3]:https://img.shields.io/badge/CSS-%230a262f?style=flat&logo=css3&logoColor=%231572B6
+[react]:https://img.shields.io/badge/React-%230a262f?style=flat&logo=react&logoColor=%2361DAFB
+[router]:https://img.shields.io/badge/React%20Router-%230a262f?style=flat&logo=React%20Router&logoColor=%23CA4245
+[sass]:https://img.shields.io/badge/Sass-%230a262f?style=flat&logo=sass&logoColor=%23CC6699
+[styled]:https://img.shields.io/badge/styled--components-%230a262f?style=flat&logo=styled-components&logoColor=%23DB7093
+[nextui]:https://img.shields.io/badge/NextUI-%230a262f?style=flat&logo=nextui
+[framer]:https://img.shields.io/badge/Framer%20Motion-%230a262f?style=flat&logo=Framer
+[tailwind]:https://img.shields.io/badge/Tailwind%20CSS-%230a262f?style=flat&logo=tailwindcss
+[node]:https://img.shields.io/badge/Node.js-%230a262f?style=flat&logo=Node.js&logoColor=%23339933
+[socket]:https://img.shields.io/badge/Socket.IO-%230a262f?style=flat&logo=Socket.io
+[express]:https://img.shields.io/badge/Express-%230a262f?style=flat&logo=Express
+[api]:https://img.shields.io/badge/REST%20API-%230a262f?style=flat
+[mongo]:https://img.shields.io/badge/MongoDB-%230a262f?style=flat&logo=MongoDB&logoColor=%2347A248
+[git]:https://img.shields.io/badge/Git-%230a262f?style=flat&logo=Git&logoColor=%23F05032
+[github]:https://img.shields.io/badge/GitHub-%230a262f?style=flat&logo=GitHub
+[vscode]:https://img.shields.io/badge/Visual%20Studio%20Code-%230a262f?style=flat&logo=visualstudiocode&logoColor=%23007ACC
+[lint]:https://img.shields.io/badge/ESLint-%230a262f?style=flat&logo=eslint&logoColor=%234B32C3
+[prettier]:https://img.shields.io/badge/Prettier-%230a262f?style=flat&logo=prettier&logoColor=%23F7B93E
+[vercel]:https://img.shields.io/badge/Vercel-%230a262f?style=flat&logo=vercel
+[render]:https://img.shields.io/badge/Render-%230a262f?style=flat&logo=render&logoColor=%2346E3B7
+[nextjs]:https://img.shields.io/badge/Next.js-%230a262f?style=flat&logo=nextdotjs&logoColor=%FFF
