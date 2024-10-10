@@ -20,7 +20,7 @@ I'm Arrugonoto(in reality Krzysztof) but You can call me just Aru :headphones:
 <div align='center'>
 
 | Language          | Front-end                   | Back-end             | Framework             | IDE / VCS / Lint      | Host               |
-| ----------------- | ----------------------------| -------------------- | --------------------- | --------------------- | ------------------ |
+| :---------------- | :-------------------------- | :------------------- | :-------------------- | :-------------------- | :----------------- |
 | ![JavaScript][JS] | ![HTML][html], ![CSS][css3] | ![Node.js][node]     | ![Next.js][nextjs]    | ![Git][git]           | ![vercel][vercel]  |
 | ![TypeScript][TS] | ![React][react]             | ![Socket.IO][socket] |                       | ![GitHub][github]     | ![Render][render]  |
 |                   | ![React Router][router]     | ![Express][express]  |                       | ![VS Code][vscode]    |                    |
