@@ -8,7 +8,7 @@
 
 I'm Arrugonoto(in reality Krzysztof) but You can call me just Aru :headphones:
 
-- 🌱 I’m currently learning `Figma`, `Next.js` and `Tailwind CSS`
+- 🌱 I’m currently `improving knowledge about algorithms` and `grinding LeetCode`
 - 💬 Ask me about really anything(ok anything related to me or my knowledge :panda_face:)
 - 🐛 Why bug? In 1947 a technician at Harvard had an issue with the performance of their Mark II computer.
      Once they investigated, they discovered that a moth had gotten into a relay – an actual real live bug
@@ -19,16 +19,16 @@ I'm Arrugonoto(in reality Krzysztof) but You can call me just Aru :headphones:
 ## :toolbox: Tech Stack
 <div align='center'>
 
-| Language          | Front-end                   | Back-end             | Framework             | IDE / VCS / Lint      | Host               |
-| :---------------- | :-------------------------- | :------------------- | :-------------------- | :-------------------- | :----------------- |
-| ![JavaScript][JS] | ![HTML][html], ![CSS][css3] | ![Node.js][node]     | ![Next.js][nextjs]    | ![Git][git]           | ![vercel][vercel]  |
-| ![TypeScript][TS] | ![React][react]             | ![Socket.IO][socket] |                       | ![GitHub][github]     | ![Render][render]  |
-|                   | ![React Router][router]     | ![Express][express]  |                       | ![VS Code][vscode]    |                    |
-|                   | ![Sass][sass]               | ![REST API][api]     |                       | ![EsLint][lint]       |                    |
-|                   | ![styled-components][styled]| ![MongoDB][mongo]    |                       | ![Prettier][prettier] |                    |
-|                   | ![NextUI][nextui]           |                      |                       |                       |                    |
-|                   | ![Framer Motion][framer]    |                      |                       |                       |                    |
-|                   | ![Tailwind CSS][tailwind]   |                      |                       |                       |                    |  
+| Language          | Front-end                   | Back-end             | Framework             | IDE / VCS / Lint      | Host               | Tools              |
+| :---------------- | :-------------------------- | :------------------- | :-------------------- | :-------------------- | :----------------- | :------------------|
+| ![JavaScript][JS] | ![HTML][html], ![CSS][css3] | ![Node.js][node]     | ![Next.js][nextjs]    | ![Git][git]           | ![Vercel][vercel]  | ![Figma][figma]    |
+| ![TypeScript][TS] | ![React][react]             | ![Socket.IO][socket] |                       | ![GitHub][github]     | ![Render][render]  |                    |
+|                   | ![React Router][router]     | ![Express][express]  |                       | ![VS Code][vscode]    |                    |                    |
+|                   | ![Sass][sass]               | ![REST API][api]     |                       | ![EsLint][lint]       |                    |                    |
+|                   | ![styled-components][styled]| ![MongoDB][mongo]    |                       | ![Prettier][prettier] |                    |                    |
+|                   | ![NextUI][nextui]           |                      |                       |                       |                    |                    |
+|                   | ![Framer Motion][framer]    |                      |                       |                       |                    |                    |
+|                   | ![Tailwind CSS][tailwind]   |                      |                       |                       |                    |                    |
  
  </div>
 
@@ -86,3 +86,4 @@ I'm Arrugonoto(in reality Krzysztof) but You can call me just Aru :headphones:
 [vercel]:https://img.shields.io/badge/Vercel-%230a262f?style=flat&logo=vercel
 [render]:https://img.shields.io/badge/Render-%230a262f?style=flat&logo=render&logoColor=%2346E3B7
 [nextjs]:https://img.shields.io/badge/Next.js-%230a262f?style=flat&logo=nextdotjs&logoColor=%FFF
+[figma]:https://img.shields.io/badge/Figma-%230a262f?style=flat&logo=figma&logoColor=%FFF
